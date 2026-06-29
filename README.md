@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="sendgrid-go" width="880"></p>
+
 ![SendGrid Logo](https://uiux.s3.amazonaws.com/2016-logos/email-logo%402x.png)
 
 [![BuildStatus](https://travis-ci.org/sendgrid/sendgrid-go.svg?branch=master)](https://travis-ci.org/sendgrid/sendgrid-go)
