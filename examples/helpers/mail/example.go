@@ -4,8 +4,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/sendgrid/sendgrid-go"
-	"github.com/sendgrid/sendgrid-go/helpers/mail"
+	"github.com/hanzoai/sendgrid-go"
+	"github.com/hanzoai/sendgrid-go/helpers/mail"
 	//"../../.." // to test against the downloaded version
 	//"../../../../sendgrid-go/helpers/mail" // to test against the downloaded version
 	"os"
