@@ -3,7 +3,7 @@ package main
 import (
   "os"
   "fmt"
-  "github.com/sendgrid/sendgrid-go"
+  "github.com/hanzoai/sendgrid-go"
   "log"
 )
 
